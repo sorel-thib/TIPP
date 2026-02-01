@@ -12,15 +12,14 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 2,
+   "execution_count": 1,
    "id": "9d6648e3-7935-4435-9b76-763cf249634f",
    "metadata": {},
    "outputs": [],
    "source": [
     "import ROOT as r\n",
     "import numpy as np\n",
-    "import math\n",
-    "import pandas as pd"
+    "import math"
    ]
   },
   {
