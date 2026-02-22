@@ -4,7 +4,7 @@ The first file:
 pp collision fitted.The goal was to read the data, create personnalized fitted function and plot them together.
 
 Second file:
-comparaison_fitting between the differents option to understand the behavious of the distribution as a function of pT.
+comparaison_fitting between the differents option to understand the behaviour of the distribution as a function of pT.
 
 Third file and fourth file:
 I switch to the PbPb collision data to fit them after this, and then did the exp_fit extrapolation to get parameter and define uncertainties correctly
